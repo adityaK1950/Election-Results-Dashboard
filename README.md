@@ -8,7 +8,7 @@ This project presents a comprehensive Election Results Dashboard created using P
 ## Screenshots 🖼️
 
 ### 🏡 Overview
-![Election Dashboard 1](#) 
+![Election Dashboard 1](https://github.com/user-attachments/assets/445c5d18-a460-49e6-bb6c-e7324d1d07f9) 
 
 ### 📊 BJP vs INC Seats in 2014 & 2019
 ![Election Dashboard 2](#) 
