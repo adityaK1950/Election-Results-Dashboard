@@ -17,7 +17,7 @@ This project presents a comprehensive Election Results Dashboard created using P
 ![Election Dashboard 3](https://github.com/user-attachments/assets/0ad893bc-90e8-484e-bbf7-9a4705d2464c)
 
 ### 📊 BJP vs INC Seats in 2014 & 2019
-![Election Dashboard 2](#) 
+![Election Dashboard 4](https://github.com/user-attachments/assets/8e377a13-8e79-4e2e-a2d3-b44d791998d4) 
 
 ### 📊 Total Votes and Margins in 2014 & 2019
 ![Election Dashboard 3](#) 
