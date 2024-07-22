@@ -20,12 +20,13 @@ This project presents a comprehensive Election Results Dashboard created using P
 ![Election Dashboard 4](https://github.com/user-attachments/assets/8e377a13-8e79-4e2e-a2d3-b44d791998d4) 
 
 ### 📊 Total Votes in 2014 & 2019
-![Election Dashboard 4](https://github.com/user-attachments/assets/4f84988a-0a17-4eb1-b741-0ed80168c1c0) 
+![Election Dashboard 5](https://github.com/user-attachments/assets/4f84988a-0a17-4eb1-b741-0ed80168c1c0) 
 
 ### 📊 Margins in 2014 & 2019
+![Election Dashboard 6](https://github.com/user-attachments/assets/09a7638f-3ba7-4c21-9554-791191e609ab)
 
 ### 📊 BJP 2019 Seats by State
-![Election Dashboard 4](#) 
+![Election Dashboard 7](#) 
 
 ## Technologies Used 🌐
 
