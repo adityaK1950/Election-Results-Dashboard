@@ -26,7 +26,7 @@ This project presents a comprehensive Election Results Dashboard created using P
 ![Election Dashboard 6](https://github.com/user-attachments/assets/09a7638f-3ba7-4c21-9554-791191e609ab)
 
 ### 📊 BJP 2019 Seats by State
-![Election Dashboard 7](#) 
+![Election Dashboard 7](https://github.com/user-attachments/assets/2f004bd5-1b7c-4a66-9d33-ef972c2e49b7) 
 
 ## Technologies Used 🌐
 
